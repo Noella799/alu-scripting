@@ -1,5 +1,5 @@
-
-dule for count_words function"""
+#!/usr/bin/python3
+"""Module for count_words function"""
 
 import json
 import requests
