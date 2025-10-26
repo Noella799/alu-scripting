@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-"""Print the titles of the first 10Hot Posts"""
+ of the first 10Hot Posts"""
 import requests
 
 
